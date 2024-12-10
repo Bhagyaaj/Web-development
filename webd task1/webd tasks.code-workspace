@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "webd tasks",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
